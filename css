@@ -1,0 +1,21 @@
+/* Add your styling to match Apple's design principles */
+body {
+    font-family: 'Helvetica', sans-serif;
+    /* Additional styling */
+}
+
+.product-showcase {
+    display: flex;
+    justify-content: space-between;
+    /* Additional styling */
+}
+
+.product-info {
+    flex: 1;
+    /* Additional styling */
+}
+
+.product-image {
+    flex: 1;
+    /* Additional styling */
+}
